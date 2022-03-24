@@ -1,0 +1,6 @@
+setup.py
+wiktor.egg-info/PKG-INFO
+wiktor.egg-info/SOURCES.txt
+wiktor.egg-info/dependency_links.txt
+wiktor.egg-info/not-zip-safe
+wiktor.egg-info/top_level.txt

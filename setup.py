@@ -8,6 +8,6 @@ setup(
     author='wiktor zawadzki',
     author_email='wiktorr53@gmail.com',
     license='unlicense',
-    packages=['Projekty'],
+    packages=['projekty'],
     zip_safe=False
 )
